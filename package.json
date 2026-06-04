@@ -1,0 +1,29 @@
+{
+  "name": "echo-x",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "@whiskeysockets/baileys": "npm:@xyrozero/baileys-mod@latest",
+    "pino": "latest",
+    "fs": "^0.0.1-security",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-fetch": "latest", 
+    "jimp": "^0.22.12",
+    "chalk": "^4.1.2", 
+    "link-preview-js": "^3.1.0",
+    "cheerio": "^1.1.0",
+    "child_process": "^1.0.2",    
+    "util": "^0.12.5",
+    "jimp": "^0.22.12",
+    "mongoose": "^7.3.4", 
+    "moment-timezone": "^0.5.34",
+    "node-webpmux": "^3.1.0",
+    "node-upload-images": "*", 
+    "os": "^0.1.2"
+  }
+}
